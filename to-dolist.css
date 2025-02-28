@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f381;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.my-list {
+    background-color: #ffffcc;
+    padding: 8px 24px;
+    width: 500px;
+    text-align: left;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+}
+
+ol {
+    margin: 12px;
+}
+
+p {
+    text-align: center;
+}
